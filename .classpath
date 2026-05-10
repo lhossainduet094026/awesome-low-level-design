@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="shoefactory/" kind="src" path="design-patterns/java/abstractfactory"/>
+	<classpathentry kind="src" path="design-patterns/java/abstractfactory/shoefactory"/>
+	<classpathentry kind="src" path="design-patterns/java/adapter"/>
+	<classpathentry kind="src" path="design-patterns/java/bridge"/>
+	<classpathentry kind="src" path="design-patterns/java/builder"/>
+	<classpathentry kind="src" path="design-patterns/java/chainofresponsibility"/>
+	<classpathentry kind="src" path="design-patterns/java/command"/>
+	<classpathentry kind="src" path="design-patterns/java/composite/filesystem"/>
+	<classpathentry kind="src" path="design-patterns/java/composite/organization"/>
+	<classpathentry excluding="coffee/" kind="src" path="design-patterns/java/decorator"/>
+	<classpathentry kind="src" path="design-patterns/java/decorator/coffee"/>
+	<classpathentry kind="src" path="design-patterns/java/facade"/>
+	<classpathentry kind="src" path="design-patterns/java/factory/notification"/>
+	<classpathentry kind="src" path="design-patterns/java/factory/subscription"/>
+	<classpathentry kind="src" path="design-patterns/java/flyweight"/>
+	<classpathentry excluding="books/" kind="src" path="design-patterns/java/iterator"/>
+	<classpathentry kind="src" path="design-patterns/java/iterator/books"/>
+	<classpathentry kind="src" path="design-patterns/java/mediator"/>
+	<classpathentry kind="src" path="design-patterns/java/memento"/>
+	<classpathentry kind="src" path="design-patterns/java/observer"/>
+	<classpathentry kind="src" path="design-patterns/java/prototype"/>
+	<classpathentry kind="src" path="design-patterns/java/proxy"/>
+	<classpathentry kind="src" path="design-patterns/java/singleton"/>
+	<classpathentry kind="src" path="design-patterns/java/state"/>
+	<classpathentry kind="src" path="design-patterns/java/strategy"/>
+	<classpathentry kind="src" path="design-patterns/java/templatemethod"/>
+	<classpathentry kind="src" path="design-patterns/java/visitor"/>
+	<classpathentry kind="src" path="solutions/java/src"/>
+	<classpathentry kind="src" path="solutions/java/test"/>
+	<classpathentry kind="src" path="exercise"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
